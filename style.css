@@ -1,0 +1,9 @@
+body{
+    background-color: tomato;
+    color: white;
+    font-family: "Times New Roman";
+}
+
+header{
+    display: flex;
+}
